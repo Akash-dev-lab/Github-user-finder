@@ -10,7 +10,7 @@ function getProfileData(username) {
 }
 
 function decorateProfileData(details) {
-  console.log(details)
+
   let data = `<div class="bg-[#1C2839] rounded-2xl shadow-xl p-8">
        
     <div class="flex items-center space-x-6">
